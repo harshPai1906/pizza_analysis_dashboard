@@ -73,11 +73,5 @@ Open it in Power BI Desktop.
 When prompted, connect it to your own PostgreSQL instance containing a pizza_sales table (or point it to a CSV/database with a matching schema).
 Explore the Home and Best/Worst Sellers pages; use the slicers to filter by category and date range.
 
-Note: This is a .pbit template file — it contains the report design and data model but no data. You'll need to connect it to a live data source (or refresh with your own dataset) to populate the visuals.
-
-📈 Key Insights (fill in with your own findings)
-Highest-revenue pizza category:
-Peak ordering day(s) of the week:
-Best-selling pizza overall:
-Worst-selling pizza overall:
-Average order value:
+Screenshots : https://github.com/harshPai1906/pizza_analysis_dashboard/blob/main/Screenshot%202026-09-12%20102933.png
+https://github.com/harshPai1906/pizza_analysis_dashboard/blob/main/Screenshot%202026-09-12%20103107.png
